@@ -1,3 +1,7 @@
+/*
+Population standard deviation calculator
+By kingsley Baidu @https://github.com/kkbaidu
+=====================================================*/
 #include <iostream>
 #include <cmath>
 using namespace std;
